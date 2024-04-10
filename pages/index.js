@@ -109,7 +109,7 @@ export default function HomePage() {
   };
 
   const initUser = () => {
-    // Check to see if user has Metamask
+    // Check to see if user has Phantom wallet
     if (!ethWallet) {
       return <p>Please install Phantom wallet in order to use this ATM.</p>;
     }
