@@ -1,5 +1,5 @@
-# Smart Contract Management - ETH + AVAX
-## Project: Function Frontend
+# Project: Function Frontend
+## Smart Contract Management - ETH + AVAX
 # Starter Next/Hardhat Project
 
 This is a Hardhat project focusing on a simple contract with 2-3 functions that shows the values of each function
